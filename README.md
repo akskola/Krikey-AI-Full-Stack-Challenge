@@ -9,7 +9,7 @@ This repository contains my submission for the Krikey Full Stack Challenge.
 The project is organized into two main directories, each specifically tailored to different components of the full stack challenge:
 
 - **Part 2A/node-api**: This directory contains the Node.js API implementation, responsible for serving the backend logic.
-- **Part 3/krikey-ui**: This directory hosts the React application, which forms the frontend of the challenge.
+- **Part 3/krikey-ui-challenge**: This directory hosts the React application, which forms the frontend of the challenge.
 
 ## Detailed Instructions
 
